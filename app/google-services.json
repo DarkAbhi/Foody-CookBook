@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050572850987",
+    "project_id": "foody-cookbook",
+    "storage_bucket": "foody-cookbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050572850987:android:f6fed0a6279a65e5d9a76e",
+        "android_client_info": {
+          "package_name": "com.darkabhi.foodycookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050572850987-qec5c5ofmhp5jbs9jdlg7bk1411b5auj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCehwP2lTtTlcfEYJTCpYW4SwKhmeEy7m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050572850987-qec5c5ofmhp5jbs9jdlg7bk1411b5auj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

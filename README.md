@@ -1,4 +1,6 @@
 # Foody Cook Book App
+[![GitHub workflow](https://github.com/DarkAbhi/Foody-CookBook/workflows/Build%20Debug%20APK/badge.svg)](https://github.com/DarkAbhi/Foody-CookBook/actions)
+
 This app showcases random food items from a list of categories such as seafood,vegan, etc.
 
 Utilizes the free API available at: https://www.themealdb.com/api.php
